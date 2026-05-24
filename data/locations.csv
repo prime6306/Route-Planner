@@ -1,0 +1,51 @@
+location_id,name,lat,lng,traffic_zone,avg_visit_min
+L01,Metro Cash & Carry Hazratganj,26.81408,81.063386,low_traffic,32
+L02,Big Bazaar Gomti Nagar,26.907018,80.971851,medium_traffic,15
+L03,Reliance Fresh Aliganj,26.757265,80.856759,low_traffic,12
+L04,D-Mart Saharaganj,26.731802,81.041406,low_traffic,35
+L05,Spencer's Indiranagar,26.87299,81.000299,medium_traffic,20
+L06,Star Bazaar Rajajipuram,26.722052,81.068377,low_traffic,19
+L07,More Supermarket Mahanagar,26.933135,80.871408,low_traffic,19
+L08,V-Mart Chinhat,26.763974,80.863885,low_traffic,16
+L09,Vishal Mega Mart Golf City,26.795803,80.952637,medium_traffic,35
+L10,Lulu Hypermarket Faizabad Road,26.829006,80.89192,medium_traffic,15
+L11,Walmart Best Price Kursi Road,26.875782,80.852468,low_traffic,33
+L12,Grofers Hub Vikas Nagar,26.792658,80.911454,medium_traffic,35
+L13,Swiggy Dark Store Gomti Extension,26.835278,81.020346,medium_traffic,40
+L14,Blinkit Hub Hazratganj,26.768615,80.949901,medium_traffic,29
+L15,Zepto Store Aliganj,26.870728,80.828277,low_traffic,14
+L16,Quick Commerce Indiranagar,26.874662,80.860536,low_traffic,30
+L17,Apollo Pharmacy Rajajipuram,26.733613,81.06291,low_traffic,25
+L18,MedPlus Mahanagar,26.967764,81.026383,low_traffic,13
+L19,Netmeds Hub Chinhat,26.7959,80.841595,low_traffic,12
+L20,HealthKart Golf City,26.894601,80.93064,medium_traffic,14
+L21,Monginis Bakery Hazratganj,26.74843,80.944946,medium_traffic,18
+L22,Cake Hub Gomti Nagar,26.725641,81.052623,low_traffic,19
+L23,Bread Talk Aliganj,26.783983,80.988456,low_traffic,28
+L24,French Loaf Saharaganj,26.797745,80.951418,medium_traffic,31
+L25,Barista Indiranagar,26.858845,80.864262,medium_traffic,12
+L26,Cafe Coffee Day Rajajipuram,26.968792,81.017735,low_traffic,29
+L27,Third Wave Coffee Mahanagar,26.96097,81.048855,low_traffic,18
+L28,Tea Trunk Chinhat,26.872154,81.055887,low_traffic,34
+L29,Restaurant Depot Golf City,26.739708,80.867156,low_traffic,32
+L30,FoodHub Faizabad Road,26.728459,80.900786,low_traffic,34
+L31,Croma Hazratganj,26.817756,80.886751,medium_traffic,29
+L32,Vijay Sales Gomti Nagar,26.932172,80.908956,low_traffic,25
+L33,Reliance Digital Aliganj,26.789743,80.957301,medium_traffic,19
+L34,Samsung Plaza Saharaganj,26.75334,81.024771,low_traffic,26
+L35,Apple Reseller Indiranagar,26.736083,81.072791,low_traffic,30
+L36,Lenovo Hub Rajajipuram,26.917484,80.867866,low_traffic,20
+L37,HP Store Mahanagar,26.718136,81.02822,low_traffic,37
+L38,Boat Service Chinhat,26.900483,81.005742,low_traffic,39
+L39,Noise Hub Golf City,26.91723,80.835452,low_traffic,12
+L40,Cables & More Faizabad Road,26.809901,80.846326,low_traffic,36
+L41,Fabindia Hazratganj,26.941107,80.978258,low_traffic,37
+L42,Westside Gomti Nagar,26.802733,80.832725,low_traffic,17
+L43,Lifestyle Store Aliganj,26.797555,80.900748,medium_traffic,34
+L44,Max Fashion Saharaganj,26.906398,80.981965,medium_traffic,25
+L45,Zudio Indiranagar,26.947375,80.938976,low_traffic,22
+L46,Pantaloons Rajajipuram,26.747795,81.001644,low_traffic,20
+L47,Manyavar Mahanagar,26.914504,80.962132,medium_traffic,16
+L48,Raymond Shop Chinhat,26.917151,80.944587,medium_traffic,18
+L49,Bata Showroom Golf City,26.852611,80.927361,high_traffic,36
+L50,Sports Station Faizabad Road,26.723309,80.844252,low_traffic,22
